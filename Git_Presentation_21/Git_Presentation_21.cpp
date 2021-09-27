@@ -15,8 +15,10 @@ void main() {
 		inFile.open(f);
 		while (!inFile.eof())
 		{
+			int a = 9;
 			std::string names("");
 			if (std::getline(inFile, names)) {
+				std::cout <<a << std::endl;
 
 				std::cout << names << std::endl;
 			}
