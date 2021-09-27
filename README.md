@@ -6,4 +6,7 @@ This repo will be used for presenting and practicing basic git funcationality.
 - [Download Git](https://git-scm.com/downloads)
 - [Create a GitHub Account](https://github.com/login)
 
+# If you have any issues during the workshop...
+Please raise your hand and let us know! :)
+
 # Additional Resources
